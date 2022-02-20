@@ -101,6 +101,7 @@ h2 {
         height: 32%;
         top: -11%;
         position: relative;
+        background-position: top;
     }
 
     .content {
